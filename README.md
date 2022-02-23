@@ -9,8 +9,5 @@ I Work by Ruby , C++ , Js ,etc...
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=informational)
 
 ## &#x1f4c8; My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimacpp&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimacpp&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimacpp&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimacpp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
