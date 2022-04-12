@@ -1,7 +1,7 @@
 #Nima 
 
 Hi, I am nima ,and I was born in 2004, I love computers and technology, I started programming in 2020-09 
-I Work by Ruby , C++ , Js ,etc...
+I Work by Ruby , C++ , perl , bash , etc...
 
 
 ## 🔧 My Favorite Technologies
