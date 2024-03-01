@@ -8,10 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nimacpp&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nimacpp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimacpp&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nimacpp)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nimacpp&icon=4&color=1)](https://visitcount.itsvg.in)
 
